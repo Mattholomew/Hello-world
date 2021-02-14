@@ -1,4 +1,4 @@
 # Hello-world
 A Repository, Indeed.
 
-Going to school, trying to learn more about computers, and math is the best.
+This is largely made up of personal projects. I may put up something from school if it is particularly interesting.
